@@ -4,9 +4,7 @@ using UnityEngine;
 
 public class Caster : MonoBehaviour
 {
-    public GameObject cigarette;
-    public GameObject player;
-    PlayerStats playerStats;
+    public PlayerStats playerStats;
 
     public AudioSource audio;
     public AudioClip fumage;
